@@ -16,3 +16,7 @@ Features
 6.Communication skill enhancement through intelligent coaching
 7.Automated and unbiased feedback system
 
+Screenshots :- <img width="940" height="415" alt="image" src="https://github.com/user-attachments/assets/a88b45ee-9d7f-4cc6-bbca-e553fc9d11fc" /> 
+               <img width="940" height="427" alt="image" src="https://github.com/user-attachments/assets/51fcde53-a4b1-4549-9ec1-b9e5b8fbd0ad" />
+               
+
